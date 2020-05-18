@@ -1,1 +1,1 @@
-# sql-gallery
+# SQL Examples
